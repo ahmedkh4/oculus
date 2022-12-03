@@ -54,7 +54,7 @@ const Stacks = (props) => {
     </Col>
     <Col span={21} style={{paddingBottom:"15px"}}>
     {props.logos && (props.logos.map((elem) => {
-    return <Col span={2} ><img   style={imgStyle} width={45} src={elem.src} /></Col> 
+    return <Col span={2} ><img  alt=""  style={imgStyle} width={45} src={elem.src} /></Col> 
     }))}
     </Col>
     </Row>

@@ -17,7 +17,7 @@ const Header=() => {
 
           <spa>
             <Col span={12} offset={6} style= {{textAlign:"start"}}>
-            <img   src={logo}  width={80}  style= {{padding:"10px"}} ></img>
+            <img   src={logo} alt="" width={80}  style= {{padding:"10px"}} ></img>
             </Col>
 
           

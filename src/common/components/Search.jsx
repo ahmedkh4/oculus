@@ -1,6 +1,5 @@
 import {Input} from 'antd-v3'
 import React from 'react';
-const { Search } = Input;
 
  const SearchBar = () => {
 
